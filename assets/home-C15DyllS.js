@@ -1,0 +1,1 @@
+import{_ as o}from"./blogList-DxJtHnI7.js";import{o as t,a as n,c as a,b as c,d as e}from"./index-BaYHuX2o.js";const s=e("h1",null,"Home",-1),l=e("p",null,"Welcome to Blind Tech Agent Blog",-1),p={__name:"home",setup(r){return t(()=>{document.title="Blind Tech Agent Blog: Explore and Read Articles"}),(_,m)=>(n(),a("main",null,[s,l,c(o,{searchTerm:"*"})]))}};export{p as default};
